@@ -1,5 +1,5 @@
 # SAJI_Encryption
-[![Python 3.9](https://img.shields.io/badge/python-3.9-yellow.svg)](https://www.python.org/)
+[![Python 3.6](https://img.shields.io/badge/python-3.9-yellow.svg)](https://www.python.org/)
 [![Build](https://img.shields.io/badge/Supported_OS-Linux-orange.svg)]()
 [![Build](https://img.shields.io/badge/Supported_OS-Windows-orange.svg)]()
 
@@ -37,6 +37,12 @@ def decryption(text):
   ...
   # same
 ```
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ErtonDev/SAJI_Encryption/main/resources/Encriptación SAJI_001.png" alt="drawing"/>
+</p>
+
+> SAJI executed on Linux OS in spanish.
 
 To execute the script type the following command in your terminal:
 ```
