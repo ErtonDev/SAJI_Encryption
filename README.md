@@ -1,15 +1,13 @@
-# SAJI_Encryption
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ErtonDev/SAJI_Encryption/main/resources/logo.png" alt="drawing" width="75"/>
+  <h1 align="center">SAJI</h1>
+</p>
+
 [![Python 3.6](https://img.shields.io/badge/python-3.9-yellow.svg)](https://www.python.org/)
 [![Build](https://img.shields.io/badge/Supported_OS-Linux-orange.svg)]()
 [![Build](https://img.shields.io/badge/Supported_OS-Windows-orange.svg)]()
 
 Simple text encryption software in spanish. (*I am looking forward to adding more languages in the future*)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ErtonDev/SAJI_Encryption/main/resources/logo.png" alt="drawing" width="400"/>
-</p>
-
-> SAJI logo
 
 ## Resources
 SAJI uses the following modules:
